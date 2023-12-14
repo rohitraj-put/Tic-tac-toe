@@ -54,7 +54,7 @@ nav ul{
 .imgbox img{
 width: 0;
 transition: width 2s ease-in-out;
-border-radius: 40px;
+border-radius: 50%;
 
 }
 .br-0{
