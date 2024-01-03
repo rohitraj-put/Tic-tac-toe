@@ -57,7 +57,9 @@ nav ul {
     padding: 0 34px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-
+.imgbox{
+    margin-left: 15%;
+}
 .imgbox img {
     width: 0;
     transition: width 2s ease-in-out;
@@ -111,6 +113,9 @@ nav ul {
     .gameInfo {
         margin-top: 34px;
     }
+    nav{
+        font-size: 35px;
+    }
 
     .gameInfo h1 {
         font-size: 1.5rem;
@@ -122,4 +127,3 @@ nav ul {
         grid-template-columns: repeat(3, 20vw);
     }
 }
-  
